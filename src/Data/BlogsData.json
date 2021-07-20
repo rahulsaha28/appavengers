@@ -1,0 +1,28 @@
+{
+    "sectionTitle":"OUR BLOG",
+    "title":"Latest Valuable Insights",
+    "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+    "cards":[
+        {
+            "name":"Alex Morgan",
+            "title":"Six Ways to Make Smarter Decisions",
+            "date":"April 30, 2020",
+            "image":"./Assets/Blog/img-12.jpg",
+            "logo":"./Assets/Blog/user/user-1.jpg"
+        },
+        {
+            "name":"Sarah Taylor",
+            "title":"The Challenges to Tackle Before You Start With AI ",
+            "date":"April 28, 2020",
+            "image":"./Assets/Blog/img-13.jpg",
+            "logo":"./Assets/Blog/user/user-2.jpg"
+        },
+        {
+            "name":"David Warner",
+            "title":"Why Organisations Want an Analytics Platform",
+            "date":"April 30, 2020",
+            "image":"./Assets/Blog/img-14.jpg",
+            "logo":"./Assets/Blog/user/user-3.jpg"
+        }
+    ]
+}

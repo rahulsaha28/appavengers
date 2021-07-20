@@ -1,0 +1,38 @@
+{
+    "sectionTitle":"Recent Projects",
+    "title":"Check Some Of Our Recent Work",
+    "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+    "cards":[
+        {
+            "title":"Movie Recommendation",
+            "type":"System Project",
+            "image":"./Assets/FeatureImg/img-7.jpg"
+        },
+        {
+            "title":"Customer Segmentation",
+            "type":"Machine Learning",
+            "image":"./Assets/FeatureImg/img-8.jpg"
+        },
+        {
+            "title":"Data Analysis",
+            "type":"Web Project",
+            "image":"./Assets/FeatureImg/img-9.jpg"
+        },
+        {
+            "title":"Detection Project",
+            "type":"Programming",
+            "image":"./Assets/FeatureImg/img-10.jpg"
+        },
+        {
+            "title":"Data Scientist",
+            "type":"Data Science",
+            "image":"./Assets/FeatureImg/img-11.jpg"
+        },
+        {
+            "title":"Benefits Research",
+            "type":"Science Projects",
+            "image":"./Assets/FeatureImg/img-10.jpg"
+        }
+    ]
+
+}

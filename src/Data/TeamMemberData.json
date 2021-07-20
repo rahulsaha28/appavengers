@@ -1,0 +1,28 @@
+{
+    "sectionTitle":"TEAM MEMBERS",
+    "title":"Our Awesome Team",
+    "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+    "cards":[
+        {
+            "name":"Merv Adrian",
+            "profession":"CEO & Founder",
+            "pic":"./Assets/Pic/img-4.jpg"
+        },
+        {
+            "name":"Carla Gentry",
+            "profession":"UX/UI Designer",
+            "pic":"./Assets/Pic/img-5.jpg"
+        },
+        {
+            "name":"Carla Gentry",
+            "profession":"Web Developer",
+            "pic":"./Assets/Pic/img-6.jpg"
+        },
+        {
+            "name":"Marie Curie",
+            "profession":"Support",
+            "pic":"./Assets/Pic/img-6.jpg"
+        }
+
+    ]
+}

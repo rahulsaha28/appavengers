@@ -1,0 +1,23 @@
+.check_box{
+    background-color: rgb(226, 226, 252);
+    padding: .3rem;
+    font-size: .7rem;
+    border-radius: .3rem;
+    transition: all .5s ease-in-out;
+}
+
+.item_section{
+    cursor: pointer;
+}
+
+
+
+.item_section:hover .check_box{
+    background-color: #ff5d22;
+    color:white;
+}
+
+.text_1{
+    font-size: 1.2rem;
+    font-weight: 700;
+}

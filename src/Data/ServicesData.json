@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Cloud Hosting Services",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+      "content": [
+        "Cloud Databases",
+        "Website Hosting",
+        "File Storage",
+        "Forex Trading",
+        "File Backups",
+        "Remote Desktop",
+        "Email Servers",
+        "Hybrid Cloud"
+      ]
+    },
+    {
+      "title": "Design & Development",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+      "content": [
+        "Responsive Design",
+        "React Development",
+        "React Development",
+        "Laravel Development",
+        "UX/UI Design",
+        "E-commerce Design",
+        "Web Design",
+        "Print Ready Design"
+      ]
+    }
+  ]

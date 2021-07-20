@@ -1,0 +1,40 @@
+{
+    "sectionTitle":"PRICING",
+    "title":"Pricing Plans",
+    "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+    "cards":[
+        {
+            "head":["LIST OF FEATURES", "$15.00 BASIC PLAN Monthly", "$35.00 ADVANCED PLAN Monthly", "$65.00 EXPERT PLAN Monthly"],
+            "body":[
+                {
+                    "data":["Number of features", 6, 7, 8]
+                },
+                {
+                    "data":["5 GB Bandwidth", true, true, true]
+                },
+                {
+                    "data":["Highest Speed", true, true, true]
+                },
+                {
+                    "data":["1 GB Storage", true, true, true]
+                },
+                {
+                    "data":["Unlimited Website", true, false, true]
+                },
+                {
+                    "data":["Unlimited Users", true, true, true]
+                },
+                {
+                    "data":["24x7 Great Support", true, true, false]
+                },
+                {
+                    "data":["Data Security and Backups", false, true, true]
+                },
+                {
+                    "data":["Monthly Reports and Analytics", false, false, true]
+                }
+                
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+.custome_size{
+    width: 100%;
+}
+
+.size_50_50{
+    width:50px;
+    height:50px;
+}
+
+.icon{
+   
+    color:#221638;
+}
+
+.icon_bg{
+    background-color:white;
+    z-index: 2;
+    opacity: 0;
+    transition: all .5s ease-in-out;
+    transform: translateY(10px);
+
+}
+
+
+
+.main_parent:hover  .icon_bg{
+   opacity: 1;
+    transform: translateY(-50px);
+    
+}
+
+.icon_bg:hover{
+    background-color:#ff5d22;
+    color:white;
+}
+
+.icon_bg:hover .icon{
+    color:white;
+}
+
+.icon_p{
+    position: absolute;
+    bottom: 4rem;
+}

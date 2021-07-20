@@ -1,0 +1,16 @@
+.left_side{
+    height: 500px;
+}
+
+.head_title{
+    font-size: 3rem;
+    color: black;
+    font-weight: 700;
+}
+
+
+
+.right_image{
+    width: 30rem;
+    height: 25rem;
+}

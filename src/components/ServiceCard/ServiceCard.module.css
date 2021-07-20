@@ -1,0 +1,8 @@
+.card_edit{
+    border:.1rem solid rgb(236, 233, 233);
+    transition: all .5s ease-in-out;
+}
+
+.card_edit:hover{
+    border: .1rem solid #ff5d22;
+}

@@ -1,0 +1,39 @@
+{
+    "sectionTitle":"OUR FEATURES",
+    "title":"We’re Here To Help",
+    "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+    "cards":[
+        {
+            "title":"Incredible Infrastructure",
+            "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+            "image":"./Assets/small_icon/icon1.png"
+        },
+        {
+            "title":"Email Notifications",
+            "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+            "image":"./Assets/small_icon/icon2.png"
+            
+        },
+        {
+            "title":"Simple Dashboard",
+            "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+            "image":"./Assets/small_icon/icon3.png"
+        },
+        {
+            "title":"Information Retrieval",
+            "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+            "image":"./Assets/small_icon/icon4.png"
+        },
+        {
+            "title":"Drag and Drop",
+            "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+            "image":"./Assets/small_icon/icon5.png"
+        },
+        {
+            "title":"Deadline Reminders",
+            "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+            "image":"./Assets/small_icon/icon6.png"
+        }
+    ]
+
+}

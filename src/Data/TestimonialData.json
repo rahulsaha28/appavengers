@@ -1,0 +1,22 @@
+{
+    "sectionTitle":"TESTIMONIALS",
+    "title":"What Our Clients are Saying?",
+    "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+    "cards":[
+        {
+            "info":[
+                {
+                    "name":"Carla Gentry",
+                    "position":"Web Developer",
+                    "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+                },
+                {
+                    "name":"Merv Adrian",
+                    "position":"CEO & Founder",
+                    "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+                }
+            ]
+        }
+        
+    ]
+}

@@ -1,0 +1,13 @@
+.bg_image{
+  background-image: url("./Assets/image/bg_img.jpg");
+}
+
+.bg_color{
+  height: 40rem;
+  background-color: #F1F8FB;
+  clip-path: polygon(100% 0, 100% 20%, 100% 79%, 90% 91%, 70% 98%, 49% 100%, 24% 97%, 10% 92%, 0 81%, 0 1%);
+}
+
+.bg_color_2{
+  background-color: #FFFBF5;
+}

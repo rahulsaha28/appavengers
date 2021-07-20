@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn-comla{
+    background-color: #ff5d22;
+    color:white;
+}
+
+.btn-comla:hover{
+    background-color: #221638;
+    color:white;
+}
+
+.title-secondary{
+    color:#6B6B84;
+}
+
+.title-bold{
+    font-weight: 700;
+}
+
+.head-title{
+    font-size: 2rem;
+    color: black;
+    font-weight: 700;
+}
+
+.section-title{
+    color: #FF6C5B;
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.text-1{
+    color: #221638;
+    transition: all .3s ease-in-out;
+}
+
+.text-1:hover{
+    color: #FF6C5B;
+}
+
+.text-2{
+    color: #ff5d22;
+    font-weight: 700;
+}
+
+.text-3{
+    color: #ff5d22; 
+}
+
+.btn-view{
+    color: #ff5d22;
+    font-weight: 700;
+    transition: all .5s ease-in-out;
+}
+
+.btn-view:hover{
+    color:#ff5d22;
+    border-bottom: .1rem solid #ff5d22;
+}
+
+
+
+.bg-color-main{
+    
+    background-image: linear-gradient(35deg, #CDFAFF, #fff);
+}
+.clip-bottom-round{
+    clip-path: polygon(99% 0, 100% 100%, 88% 95%, 70% 91%, 36% 91%, 16% 95%, 0 100%, 0 0);
+}
+
+.bg-1{
+    background-color: #F1F8FB;
+}
+
+.text-white{
+    color: white;
+}
+
+.btn-gray{
+    background-color: #EFEFEF;
+    color: black;
+    font-weight: 600;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+    transition: all .5s ease-in-out;
+}
+
+.btn-gray:hover{
+    background-color: #ff5d22;
+    color: white;
+}
+
+.btn-white{
+    border:.1rem solid #d69e98;
+    color:#ff5d22;
+    font-weight: 700;
+    transition: all .6s ease-in-out;
+}
+
+.btn-white:hover{
+    background-color: #ff5d22;
+    color: white;
+    box-shadow: .2rem .2rem .2rem rgba(0, 0, 0, 0.2);
+}

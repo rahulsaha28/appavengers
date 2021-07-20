@@ -1,0 +1,13 @@
+.icon{
+    color:#0A3B5F;
+    transition: all .5s ease;
+}
+
+.icon:hover{
+    color:#ff5d22;
+}
+
+.icon_home{
+    color:#ff5d22;
+    margin-right: .5rem;
+}
